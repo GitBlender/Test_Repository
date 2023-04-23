@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I ready to work in Monday
+=======
+i saved this file in home
+>>>>>>> 448b08a04929350b8471c5568bff0ad23a69fae0
